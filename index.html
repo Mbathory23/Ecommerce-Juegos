@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Scary Play</title>
+</head>
+<body>
+
+<header>
+    <h1>Scary Play</h1>
+    <nav>
+        <ul>
+            <li><a href="./index.html">Inicio</a></li>
+        </ul>
+    </nav>
+</header>
+
+<div class="cart-button-container">
+    <button id="verCarrito" class="button">CARRITO (0)</button>
+</div>
+
+<div id="paginaJuegos">
+    <div id="filtrosYbotones">
+        <div class="search-container">
+            <input id="buscador" placeholder="Buscar por nombre" class="input">
+            <button id="buscar" class="button">BUSCAR</button>
+        </div>
+        <div id="filtros">
+            <button id="Todos" value="" class="button">Todos</button>
+        </div>
+    </div>
+    <div id="juegos"></div>
+</div>
+
+<div id="paginaCarrito" class="oculto">
+    <div id="contenedorCarrito"></div>
+    <button id="comprar" class="button">COMPRAR</button>
+</div>
+
+<footer>
+    <p>&copy; 2024 Scary Play. Todos los derechos reservados.</p>
+</footer>
+
+<script src="./script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>

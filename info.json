@@ -1,0 +1,119 @@
+[
+    {
+        "id": 2,
+        "nombre": "Call of Dutty: vanguard",
+        "precio": 26000,
+        "stock": 0,
+        "categoria": "accion",
+        "consola": "Play 5",
+        "rutaImagen": "Callofduty.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Batteflied 2042",
+        "precio": 10000,
+        "stock": 5,
+        "categoria": "accion",
+        "consola": "Play 4",
+        "rutaImagen": "Batleflied.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Atomic Heard",
+        "precio": 65000,
+        "stock": 4,
+        "categoria": "accion",
+        "consola": "Play 5",
+        "rutaImagen": "atomic.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Avatars Frontiers",
+        "precio": 50000,
+        "stock": 6,
+        "categoria": "aventura",
+        "consola": "Play 5",
+        "rutaImagen": "avatar.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Jumanji",
+        "precio": 24000,
+        "stock": 8,
+        "categoria": "aventura",
+        "consola": "Play 4",
+        "rutaImagen": "Jumanji.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "God of War Ragnarok",
+        "precio": 45000,
+        "stock": 2,
+        "categoria": "aventura",
+        "consola": "play 5",
+        "rutaImagen": "godofwar.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Fifa 2024",
+        "precio": 60000,
+        "stock": 4,
+        "categoria": "deportes",
+        "consola": "Play 5",
+        "rutaImagen": "Fifa24.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Formula 1",
+        "precio": 57000,
+        "stock": 3,
+        "categoria": "deportes",
+        "consola": "Play 5",
+        "rutaImagen": "f124.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "Resident Evil 4",
+        "precio": 38000,
+        "stock": 5,
+        "categoria": "terror",
+        "consola": "Play 5",
+        "rutaImagen": "Resident.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Championships tenis",
+        "precio": 53000,
+        "stock": 1,
+        "categoria": "deportes",
+        "consola": "play 5",
+        "rutaImagen": "matchpoin.jpg"
+    },
+    {
+        "id": 30,
+        "nombre": "Play 5",
+        "precio": 1200000,
+        "stock": 6,
+        "categoria": "Consolas",
+        "consola": "Play 5",
+        "rutaImagen": "play5.jpg"
+    },
+    {
+        "id": 33,
+        "nombre": "X Box Series",
+        "precio": 840000,
+        "stock": 5,
+        "categoria": "Consolas",
+        "consola": "Play 5",
+        "rutaImagen": "xbox.jpg"
+    },
+    {
+        "id": 36,
+        "nombre": "Jostick PS5",
+        "precio": 120000,
+        "stock": 4,
+        "categoria": "Consolas",
+        "consola": "play 5",
+        "rutaImagen": "jostick.jpg"
+    }
+]
